@@ -58,7 +58,7 @@ Numbers
 
 **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+**Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent. DONE
 
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
@@ -85,6 +85,8 @@ Numbers
 **Limit Calculator** - Ask the user to enter f(x) and the limit value, then return the value of the limit statement *Optional: Make the calculator capable of supporting infinite limits.*
 
 **Fast Exponentiation** - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.
+
+**Random Dice** - Ask the user to enter a minimal and maximum values, them show a random number between them. DONE
 
 Classic Algorithms
 -----------------
